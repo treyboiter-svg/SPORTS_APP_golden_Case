@@ -1,0 +1,36 @@
+{
+  "module_requirements": {
+    "DEFAULT": {
+      "core_engine": "required",
+      "odds_scraper": "required",
+      "stats_sos_integration": "required",
+      "cre_integration": "required",
+      "travel_rest_scraper": "required",
+      "nea_lineup_assessor": "required",
+      "referee_signal_engine": "required",
+      "nea_player_stats_scraper": "required"
+    },
+    "MLB": {
+      "core_engine": "required",
+      "odds_scraper": "required",
+      "stats_sos_integration": "required",
+      "arsenal_engine": "required",
+      "cre_integration": "required",
+      "travel_rest_scraper": "required",
+      "nea_lineup_assessor": "required",
+      "nea_player_stats_scraper": "required",
+      "referee_signal_engine": "required"
+    },
+    "NBA": {
+      "core_engine": "required",
+      "odds_scraper": "required",
+      "stats_sos_integration": "required",
+      "cre_integration": "required",
+      "travel_rest_scraper": "required",
+      "nea_lineup_assessor": "required",
+      "nea_player_stats_scraper": "required",
+      "referee_signal_engine": "required",
+      "weather_engine": "disabled"
+    }
+  }
+}
